@@ -3,7 +3,7 @@
 
 Шоб встановити бота:
 ```
-git clone https://github.com/el-tipo-tropico/gemini_bot
+git clone https://github.com/el-tipo-tropico/gemini_bot.git
 cd gemini_bot
 python -m venv .venv
 source .venv/bin/activate
